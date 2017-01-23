@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FizzBuzz
+namespace FizzBuzz.Library.Tests
 {
-    class Program
+    public class FizzBuzzerTests
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
